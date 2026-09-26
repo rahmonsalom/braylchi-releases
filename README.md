@@ -17,11 +17,11 @@ Boshqa fayllar **yuklab olinmaydi** — ular o'rnatilgan ilovaning o'zi uchun:
 
 | Fayl | Nima uchun |
 |---|---|
-| `…​.sig` | Imzo: ilova yangilanish fayli haqiqatan Braylchi muallifidan ekanini shu bilan tekshiradi. |
+| `….sig` | Imzo: ilova yangilanish fayli haqiqatan Braylchi muallifidan ekanini shu bilan tekshiradi. |
 | `latest.json` | Ilova yangi versiya bor-yo'qligini shu fayldan biladi. |
-| `…​.app.tar.gz` | macOS ilovasi o'zini yangilaganda yuklaydigan paket. |
-| `…​.msi` | Windows uchun boshqa ko'rinishdagi o'rnatuvchi (tashkilotlarda ommaviy o'rnatish uchun). `setup.exe` yetarli. |
-| `…​.deb`, `…​.rpm` | Linux tizim paketlari (Ubuntu/Debian, Fedora). AppImage o'rniga ishlatsa bo'ladi, lekin ular o'zi yangilanmaydi. |
+| `….app.tar.gz` | macOS ilovasi o'zini yangilaganda yuklaydigan paket. |
+| `….msi` | Windows uchun boshqa ko'rinishdagi o'rnatuvchi (tashkilotlarda ommaviy o'rnatish uchun). `setup.exe` yetarli. |
+| `….deb`, `….rpm` | Linux tizim paketlari (Ubuntu/Debian, Fedora). AppImage o'rniga ishlatsa bo'ladi, lekin ular o'zi yangilanmaydi. |
 
 ## Birinchi ochilishdagi ogohlantirishlar
 
