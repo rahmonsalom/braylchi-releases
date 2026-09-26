@@ -9,7 +9,7 @@ Braylchi — brayl kitob tayyorlash dasturi: PDF, Word yoki matndan Duxbury DBT 
 | Qurilma | Yuklab oling | O'rnatish |
 |---|---|---|
 | **Windows** | `Braylchi_…_x64-setup.exe` | Faylni ochib, ko'rsatmaga amal qiling. |
-| **macOS** (Apple M1/M2… va Intel) | `Braylchi_…_universal.dmg` | Ochilgan oynada Braylchi belgisini **Applications** papkasiga suring. |
+| **macOS** (Apple M1 va yangi) | `Braylchi_…_aarch64.dmg` (0.2.0 da — `…_universal.dmg`) | Ochilgan oynada Braylchi belgisini **Applications** papkasiga suring. Intel protsessorli Mac'lar qo'llab-quvvatlanmaydi. |
 | **Linux** | `Braylchi_…_amd64.AppImage` | Faylga ishga tushirish ruxsatini bering (`chmod +x`) va oching. |
 | **Android** (planshet) | `Braylchi_…_android.apk` | Planshetda faylni ochib **O'rnatish** ni bosing. |
 
