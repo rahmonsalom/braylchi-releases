@@ -22,6 +22,7 @@ Boshqa fayllar **yuklab olinmaydi** — ular o'rnatilgan ilovaning o'zi uchun:
 | `….app.tar.gz` | macOS ilovasi o'zini yangilaganda yuklaydigan paket. |
 | `….msi` | Windows uchun boshqa ko'rinishdagi o'rnatuvchi (tashkilotlarda ommaviy o'rnatish uchun). `setup.exe` yetarli. |
 | `….deb`, `….rpm` | Linux tizim paketlari (Ubuntu/Debian, Fedora). AppImage o'rniga ishlatsa bo'ladi, lekin ular o'zi yangilanmaydi. |
+| **Source code** (zip, tar.gz) | GitHub har bir relizga o'zi qo'shadi, olib tashlab bo'lmaydi. Ichida faqat shu README bor — ilova emas, yuklab olmang. |
 
 ## Birinchi ochilishdagi ogohlantirishlar
 
